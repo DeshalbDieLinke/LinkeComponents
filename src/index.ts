@@ -1,1 +1,2 @@
-import Callout  from "./components/Callout";
+export {default as Callout } from "./components/Callout"
+
